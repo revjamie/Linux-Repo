@@ -1,8 +1,9 @@
 #!/bin/sh
 ######################################
 # Written By Jamie McParland 2/23/2018
-# Version 1.0.1
+# Version 1.0.2
 # Please update the version number after making changes to this file. 
+# Testing out GIT Repo for this stuff. 
 ######################################
 #To run this centos7-firstrun.sh script, ssh into to the software server. software.newberg.k12.or.us
 #Once logged in, issue this command, changing <NEWLINUXIPADDRESS> to the ip address of the new machine you want to run the script on.
